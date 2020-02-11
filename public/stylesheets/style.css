@@ -1,0 +1,14 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #FFFFFD !important;
+}
+
+a {
+  color: #00B7FF;
+}
+
+p {
+  margin: 0rem !important;
+  font: 14px "Tahome", sans-serif;
+  font-weight: 700;
+}
